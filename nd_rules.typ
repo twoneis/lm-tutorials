@@ -14,10 +14,9 @@
     ),
   )
 }
-#let box = box.with(stroke: 1pt)
+
 #let group = grid.with(columns: (1fr, 1fr), gutter: 20pt, align: (center+bottom))
 #let heading = grid.cell.with(colspan: 2)
-#let hypos = grid.with(columns: 2, gutter: 10pt)
 
 #group(
   heading[== Implication],
