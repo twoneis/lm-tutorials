@@ -53,9 +53,7 @@ Predicates:
 === 2.3.7
 Derivation for $exists x forall y (P(x,y)) tack.r forall y exists x (P(x, y))$
 
-#grid(
-  columns: 6,
-  gutter: 10pt,
+#hypos(
   [h1 : $exists x forall y (P(x,y))$],
   [h2 : $forall y (P(a,y))$],
 )
@@ -80,9 +78,7 @@ Derivation for $exists x forall y (P(x,y)) tack.r forall y exists x (P(x, y))$
 === 2.3.9 (a)
 Derivation for $exists x (S -> Q(x)) tack.r S -> exists x (Q(x))$
 
-#grid(
-  columns: 6,
-  gutter: 10pt,
+#hypos(
   [h1 : $exists x (S -> Q(x))$],
   [h2: $S$],
   [h3: $S -> Q a$],
@@ -109,9 +105,7 @@ Derivation for $exists x (S -> Q(x)) tack.r S -> exists x (Q(x))$
 === 2.3.9 (p)
 Derivation for $not forall x (not P(x)) tack.r exists x (P(x))$
 
-#grid(
-  columns: 6,
-  gutter: 10pt,
+#hypos(
   [h1 : $not forall x (not P(x))$],
   [h2 : $not exists x (P(x))$],
   [h3 : $P(a)$],

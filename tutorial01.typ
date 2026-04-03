@@ -48,9 +48,7 @@ Show that $p -> (q -> r) tack.r p -> (r -> q)$ is not valid:
 === 1.2.1 (r)
 Derivation for $p -> q and r tack.r (p -> q) and (p -> r)$: 
 
-#grid(
-  columns: 6,
-  gutter: 10pt,
+#hypos(
   [h1 : $p -> q and r$],
   [h2 : $p$],
   [h3 : $p$],
@@ -91,9 +89,7 @@ Derivation for $p -> q and r tack.r (p -> q) and (p -> r)$:
 === 1.2.1 (x)
 Derivation for $p -> (q or r), q -> s, r -> s tack.r p -> s$: 
 
-#grid(
-  columns: 6,
-  gutter: 10pt,
+#hypos(
   [h1 : $p -> (q or r)$],
   [h2 : $q -> s$],
   [h3 : $r -> s$],
@@ -131,9 +127,7 @@ Derivation for $p -> (q or r), q -> s, r -> s tack.r p -> s$:
 === 1.2.2 (b)
 Derivation for $not p or not q tack.r not (p and q)$: 
 
-#grid(
-  columns: 6,
-  gutter: 10pt,
+#hypos(
   [h1 : $not p or not q$],
   [h2 : $p and q$],
   [h3l : $not p$],
