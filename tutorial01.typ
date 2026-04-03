@@ -1,4 +1,4 @@
-#import "@preview/curryst:0.6.0": *
+#import "@preview/curryst:0.6.0": prooftree
 #import "rules.typ": *
 
 #set list(marker: none)
