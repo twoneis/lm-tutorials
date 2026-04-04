@@ -58,6 +58,8 @@ Derivation for $exists x forall y (P(x,y)) tack.r forall y exists x (P(x, y))$
   [h2 : $forall y (P(a,y))$],
 )
 
+#linebreak()
+
 #prooftree(
   exists-e([h2])(
     th([h1])($exists x forall y (P(x,y))$),
@@ -83,6 +85,8 @@ Derivation for $exists x (S -> Q(x)) tack.r S -> exists x (Q(x))$
   [h2: $S$],
   [h3: $S -> Q a$],
 )
+
+#linebreak()
 
 #prooftree(
   impl-i([h2])(
@@ -110,6 +114,8 @@ Derivation for $not forall x (not P(x)) tack.r exists x (P(x))$
   [h2 : $not exists x (P(x))$],
   [h3 : $P(a)$],
 )
+
+#linebreak()
 
 #prooftree(
   raa([h2])(
