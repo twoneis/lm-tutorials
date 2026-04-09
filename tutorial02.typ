@@ -5,7 +5,7 @@
 #set list(marker: none)
 
 = Tutorial 02 Solutions
-_Note: solution are examples, in many cases other solutions are possible_
+_Note: These solutions are examples, in many cases other solutions are possible._
 
 === 2.1.1 (a)
 Mary admires every professor: 

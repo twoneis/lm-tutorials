@@ -4,7 +4,7 @@
 #set list(marker: none)
 
 = Tutorial 01 Solutions
-_Note: solution are examples, in many cases other solutions are possible_
+_Note: These solutions are examples, in many cases other solutions are possible._
 
 === 1.1.1
 (a) If the sun shines today, then it won't shine tomorrow.

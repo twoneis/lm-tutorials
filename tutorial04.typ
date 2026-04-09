@@ -7,7 +7,7 @@
 #set list(marker: none)
 
 = Tutorial 04 Solutions
-_Note: solution are examples, in many cases other solutions are possible_
+_Note: These solutions are examples, in many cases other solutions are possible._
 
 === Past exam questions
 - (a) Have $a < b$, $b < c$ and $a < c$. For all other $x,y in U$ there is no relation $x < y$.

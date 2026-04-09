@@ -4,7 +4,7 @@
 #set list(marker: none)
 
 = Tutorial 03 Solutions
-_Note: solution are examples, in many cases other solutions are possible_
+_Note: These solutions are examples, in many cases other solutions are possible._
 
 === Past exam questions
 
