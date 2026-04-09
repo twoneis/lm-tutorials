@@ -1,13 +1,5 @@
 #import "@preview/curryst:0.6.0": *
 
-#let proof(hypotheses, tree) = [
-  #hypotheses
-
-  #linebreak()
-
-  #tree
-]
-
 #let hypos = grid.with(columns: 6, gutter: 10pt)
 
 #let th(hypo) = rule.with(name: [#hypo])
