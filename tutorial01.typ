@@ -4,6 +4,8 @@
 #set list(marker: none)
 
 = Tutorial 01 Solutions
+_Note: solution are examples, in many cases other solutions are possible_
+
 === 1.1.1
 (a) If the sun shines today, then it won't shine tomorrow.
 
@@ -21,8 +23,6 @@ Have propositional variables:
 - $m$: He has paid his mortage
 
 $c -> s or not m$
-
-_Note: Other solutions are possible_ 
 
 === 1.4.2 (a)
 Truth table for $((p -> q) -> p) -> p$: 

@@ -5,6 +5,8 @@
 #set list(marker: none)
 
 = Tutorial 02 Solutions
+_Note: solution are examples, in many cases other solutions are possible_
+
 === 2.1.1 (a)
 Mary admires every professor: 
 $forall x (P(x) -> A(m, x))$
