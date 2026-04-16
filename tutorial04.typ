@@ -1,7 +1,6 @@
 #import "@preview/curryst:0.6.0": prooftree
 #import "@preview/fletcher:0.5.8" as fletcher: diagram, edge
 #import "rules.typ": *
-#import "common.typ": *
 #import "modal.typ": *
 
 #set list(marker: none)
